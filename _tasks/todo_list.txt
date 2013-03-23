@@ -1,0 +1,19 @@
+/* PRIOR */
+
+
+/* PENDING */
+
+- Sending mail without javascript.
+- Manage all titles
+- Manage all scripts
+- Clear Database
+- Modify upload image path while launch to server.
+- Modify lightbox image path while launch to server.
+- Gallery Pagination.
+
+/* FINISHED */
+
+- [promotion backend]
+- [gallery backend] Delete image
+- [gallery frontend] using jQuery Lightbox.
+- [promotion_view] use jQuery to check <p>&nbsp;</p> and prevent them not to display.
